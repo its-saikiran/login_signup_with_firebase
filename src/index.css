@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://image.shutterstock.com/image-photo/businessman-fingerprint-scan-biometric-authentication-260nw-759104368.jpg");
+    background-size: cover;
+    border: 20px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
